@@ -1,0 +1,125 @@
+body{
+    background-color:#b8e994;    
+}
+/* register.html */
+#address{
+    width: 30%;
+}
+
+
+
+
+
+#image{
+    border: 2px solid black;
+    border-radius: 5px;
+    width:30%;
+    padding: 10px;
+    text-align: center;
+}
+ 
+#role{
+    border: 2px solid black;
+    border-radius: 5px;
+    width:30%;
+    padding: 10px;
+    text-align: center;
+}   
+
+#role select{
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#regbtn{
+    padding: 5px;
+    border-radius: 5px;
+    background-color:#44c8e9;
+    border-color: black; 
+    font-size: 15px; 
+}
+
+/* index.html  */
+#headersection{
+    padding: 10px;
+    margin: 10px;
+}
+#headersection h1{
+    font-family: cursive;
+}
+
+input{
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#dropbox{
+    padding: 10px ;
+    border-radius: 5px;
+    width: 15%;  
+}
+
+#loginbtn{
+    padding: 5px;
+    border-radius: 5px;
+    background-color:#44c8e9;
+    border-color: black;
+    font-size: 15px;
+}
+
+/* dashboard*/
+#backbtn{
+    padding: 5px;
+    border-radius: 5px;
+    background-color:#44c8e9;
+    border-color: black;
+    font-size: 15px; 
+    float: left; 
+    margin: 10px;
+}
+
+#logoutbtn{
+    padding: 5px;
+    border-radius: 5px;
+    background-color:#44c8e9;
+    border-color: black;
+    font-size: 15px;  
+    float: right;
+    margin: 10px;
+
+}
+
+#Profile{
+    background-color: white;
+    width:30%;
+    padding: 20px;
+    float: left;
+}
+
+#Group{
+    background-color: white;
+    width:40%;
+    padding: 20px; 
+    float: right;
+}
+
+#votebtn{
+    padding: 5px;
+    border-radius: 5px;
+    background-color:#44c8e9;
+    border-color: black;
+    font-size: 15px;
+}
+
+#mainpanel{
+    padding: 10px;
+}
+
+#voted{
+    padding: 5px;
+    border-radius: 5px;
+    background-color:green;
+    border-color: black;
+    font-size: 15px
+
+}
