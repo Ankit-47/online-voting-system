@@ -1,5 +1,5 @@
 body{
-    background-color:#b8e994;    
+    background-color:antiquewhite;  
 }
 /* register.html */
 #address{
@@ -34,15 +34,17 @@ body{
 #regbtn{
     padding: 5px;
     border-radius: 5px;
-    background-color:#44c8e9;
+    background-color:#44e98e;
     border-color: black; 
     font-size: 15px; 
 }
 
 /* index.html  */
+
+
 #headersection{
     padding: 10px;
-    margin: 10px;
+    margin: 10px;   
 }
 #headersection h1{
     font-family: cursive;
@@ -62,7 +64,7 @@ input{
 #loginbtn{
     padding: 5px;
     border-radius: 5px;
-    background-color:#44c8e9;
+    background-color:#44e98e;
     border-color: black;
     font-size: 15px;
 }
@@ -71,7 +73,7 @@ input{
 #backbtn{
     padding: 5px;
     border-radius: 5px;
-    background-color:#44c8e9;
+    background-color:#44e98e;
     border-color: black;
     font-size: 15px; 
     float: left; 
@@ -81,7 +83,7 @@ input{
 #logoutbtn{
     padding: 5px;
     border-radius: 5px;
-    background-color:#44c8e9;
+    background-color:#44e98e;
     border-color: black;
     font-size: 15px;  
     float: right;
@@ -97,7 +99,7 @@ input{
 }
 
 #Group{
-    background-color: white;
+    background-color:white;
     width:40%;
     padding: 20px; 
     float: right;
@@ -118,8 +120,9 @@ input{
 #voted{
     padding: 5px;
     border-radius: 5px;
-    background-color:green;
+    background-color:rgb(74, 207, 114);
     border-color: black;
-    font-size: 15px
+    font-size: 15px;
+   
 
 }
